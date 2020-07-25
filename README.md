@@ -6,4 +6,4 @@
 - :office: I’m currently working as a Front-end Developer at [SONDA](https://www.sonda.com/pt-br/).
 - :closed_book: I’m currently learning Angular and React.
 - 🧠 I’m looking to collaborate on Angular projects.
-- 📫 How to reach me: :e-mail: lucastiagocav@gmail.com or [LinkedIn](https://www.linkedin.com/in/lucastiagocav/)
+- 📫 How to reach me: :e-mail: lucastiagocav@gmail.com or [LinkedIn](https://www.linkedin.com/in/lucastiagocav/).
